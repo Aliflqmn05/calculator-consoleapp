@@ -1,0 +1,11 @@
+D:\23.11.5726\tugas algoritma\tugas lab\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\23.11.5726\tugas algoritma\tugas lab\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\23.11.5726\tugas algoritma\tugas lab\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\23.11.5726\tugas algoritma\tugas lab\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\23.11.5726\tugas algoritma\tugas lab\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\23.11.5726\tugas algoritma\tugas lab\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\23.11.5726\tugas algoritma\tugas lab\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\smester 1\tugas algoritma\tugas lab\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\smester 1\tugas algoritma\tugas lab\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\smester 1\tugas algoritma\tugas lab\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\smester 1\tugas algoritma\tugas lab\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
